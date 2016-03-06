@@ -4,3 +4,5 @@
 
 1、建库语句
 CREATE DATABASE funny CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+
