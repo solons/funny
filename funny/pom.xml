@@ -23,6 +23,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- java链接mongodb数据库jiar包 -->
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>2.9.3</version>
+		</dependency>
+
 		<!-- spring核心包 Start -->
 		<dependency>
 			<groupId>org.springframework</groupId>
