@@ -37,7 +37,7 @@
 						</a>
 					</li>
 					<li>
-						<a class="text-danger" href="pages/systemDescribe.jsp"> <abbr
+						<a class="text-danger" href="pages/echartsLine.jsp"> <abbr
 							title="Echarts的使用可以提高百度的收录">3、Echarts页面效果体验</abbr>
 						</a>
 					</li>
