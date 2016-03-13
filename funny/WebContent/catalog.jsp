@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- <base target="_blank"> 添加此句作用，此页面中所有的链接都还打开浏览器的一个新的标签页 -->
 <title>Graviation</title>
 <link rel="shortcut icon" href="ico/Lightning.png">
 <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
@@ -39,6 +40,11 @@
 					<li>
 						<a class="text-danger" href="pages/echartsLine.jsp"> <abbr
 							title="Echarts的使用可以提高百度的收录">3、Echarts页面效果体验</abbr>
+						</a>
+					</li>
+					<li>
+						<a class="text-danger" href="pages/echartsPie.jsp"> <abbr
+							title="Echarts的使用可以提高百度的收录">4、Echarts饼图效果体验</abbr>
 						</a>
 					</li>
 				</ul>
